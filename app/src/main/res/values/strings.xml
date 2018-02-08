@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">AllRounder Quiz</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="question_australia">Canberra is the capital of Australia.</string>
+    <string name="question_oceans">The Pacific Ocean is larger than
+        the Atlantic Ocean.
+    </string>
+    <string name="question_mideast">The Suez Canal connects the Red Sea
+        and the Indian Ocean.
+    </string>
+    <string name="question_africa">The source of the Nile River is in Egypt.</string>
+    <string name="question_americas">The Amazon River is the longest river
+        in the Americas.
+    </string>
+    <string name="question_asia">Lake Baikal is the world\'s oldest and deepest
+        freshwater lake.
+    </string>
+    <string name="question_president">U.S. presidents originally lived in the "President's Palace,"
+        but the name was changed to avoid affectations of royalty.
+    </string>
+    <string name="question_country">The smallest country in the world is Monaco.</string>
+    <string name="question_mickey">When Mickey Mouse debuted on screen in 1928, it was in a silent
+        film.
+    </string>
+    <string name="question_heptagon">A heptagon has six sides.</string>
+    <string name="question_bats">Vampire bats feed on blood.</string>
+    <string name="question_moon">Only Americans and Soviets have walked on the Moon.</string>
+    <string name="question_titanic">The Titanic had enough lifeboats to save almost everyone on
+        board.
+    </string>
+    <string name="question_lightning">Lightning is seen before it\'s heard because light travels
+        faster than sound.
+    </string>
+    <string name="question_bollywood">Bollywood is the nickname of Britain\'s movie industry.
+    </string>
+    <string name="question_muscle">The biggest muscle in the human body is the gluteus maximus
+        (buttock muscle).
+    </string>
+
+    <string name="prev_button">Previous</string>
+    <string name="correct_one">Correct !</string>
+    <string name="incorrect_one">Incorrect !</string>
+    <string name="current_score">Score=</string>
+    <string name="reset_button">Reset Score</string>
+    <string name="cheat_button">Cheat !</string>
+    <string name="warning_cheat">Are you sure you want to cheat?</string>
+    <string name="show_answer">Show Answer</string>
+    <string name="cheating">You cheated no score</string>
+
+</resources>
